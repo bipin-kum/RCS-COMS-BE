@@ -75,3 +75,6 @@ A Spring Boot 3.x backend service for managing users, customers, and form submis
 
 ### 1. Clone the repository
 git clone https://github.com/bipin-kum/RCS-COMS-BE.git
+
+
+## Sample request/response payloads
