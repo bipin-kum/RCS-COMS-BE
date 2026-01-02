@@ -74,6 +74,4 @@ A Spring Boot 3.x backend service for managing users, customers, and form submis
 ## Setup
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/your-org/rcs-backend.git
-cd rcs-backend
+git clone https://github.com/bipin-kum/RCS-COMS-BE.git
